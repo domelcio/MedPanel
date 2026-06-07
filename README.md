@@ -1,4 +1,4 @@
-# ⚕ MedPanel  
+# ⚕ MedOS
 Pierwsza **oficjalna wersja** aplikacji MedPanel jest już dostępna!  
 Możesz pobrać ją z **Discorda Farmakologii**, a dla osób, które **nie chcą pobierać z Discorda**, przygotowałem również wersję na **GitHubie**:
 
